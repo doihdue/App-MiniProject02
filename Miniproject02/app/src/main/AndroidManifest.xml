@@ -12,6 +12,27 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Miniproject02">
         <activity
+            android:name=".TicketSuccessActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyTicketsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BookTicketActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ShowtimesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TheatersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MoviesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

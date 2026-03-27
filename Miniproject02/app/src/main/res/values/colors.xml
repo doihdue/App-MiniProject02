@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="brand">#FF0E6BA8</color>
+    <color name="brand_container">#FFD2ECFF</color>
+    <color name="surface_card">#F2FFFFFF</color>
+    <color name="card_stroke">#20B4C8DD</color>
+    <color name="text_primary">#FF1C2733</color>
+    <color name="text_secondary">#FF5D7185</color>
+    <color name="seat_available">#FFEAF2FB</color>
+    <color name="seat_occupied">#FFBFC7D2</color>
+    <color name="seat_selected">#FF0E6BA8</color>
+    <color name="success_bg">#FFEAF9F1</color>
+    <color name="success_text">#FF126A44</color>
+    <color name="success_stroke">#FFB5E7CB</color>
 </resources>
